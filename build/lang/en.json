@@ -68,7 +68,7 @@
     "mm.core.previous": "Previous",
     "mm.core.pulltorefresh": "Pull to refresh",
     "mm.core.refresh": "Refresh",
-    "mm.core.requireduserdatamissing": "This user lacks some required profile data. Please, fill this data in your Moodle and try again.<br>{{$a}}",
+    "mm.core.requireduserdatamissing": "This user lacks some required profile data. Please, fill this data in your ICE and try again.<br>{{$a}}",
     "mm.core.search": "Search",
     "mm.core.sec": "sec",
     "mm.core.secs": "secs",
